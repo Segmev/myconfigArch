@@ -56,7 +56,7 @@ plugins=(git)
 
 # User configuration
 
-export PATH="/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/karraz_s/bin:/home/karraz_s/.gem/ruby/2.2.0/bin:/home/karraz_s/.gem/ruby/2.3.0/bin"
+export PATH="/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/NN/bin:/home/NN/.gem/ruby/2.2.0/bin:/home/NN/.gem/ruby/2.3.0/bin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -102,14 +102,10 @@ alias steam="STEAM_RUNTIME=0 steam"
 
 export EDITOR="nano"
 export VISUAL="emacs"
-export USER="karraz_s"
-export USER_NICKNAME="stephane karraz"
+export USER="NONAME"
+export USER_NICKNAME="NONAME"
 export GTK_IM_MODULE=ibus
 export XMODIFIERS=@im=ibus
 export QT_IM_MODULE=ibus
 export XDG_CONFIG_HOME="$HOME/.config"
-
-# export LD_LIBRARY_PATH="/home/karraz_s/.froot/lib/"
-# export C_INCLUDE_PATH="/home/karraz_s/.froot/include/"
-# export CPLUS_INCLUDE_PATH="/home/karraz_s/.froot/include/"
 
